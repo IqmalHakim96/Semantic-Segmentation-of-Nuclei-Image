@@ -1,7 +1,7 @@
 # Semantic-Segmentation-of-Nuclei-Image
  
 ## Introduction
-The purpose of the project is to detect cell nuclei using image segmentation process on bimedical images. In this project, the U-net architecture was used to trained for image segmentation. The aim was to correctly segment the portion where the nuclei were seen. 
+The purpose of the project is to detect cell nuclei using image segmentation process on biomedical images. In this project, the U-net architecture was used to trained for image segmentation. The aim was to correctly segment the portion where the nuclei were seen. 
 
 ## Methodology
 
